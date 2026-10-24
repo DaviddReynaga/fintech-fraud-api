@@ -1,0 +1,14 @@
+# Bases de datos locales
+*.db
+*.sqlite3
+fraude.db
+
+# Python y entornos
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+
+# SO
+.DS_Store

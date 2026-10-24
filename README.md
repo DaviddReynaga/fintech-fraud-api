@@ -1,4 +1,4 @@
-# FinTech Fraud Detection REST API 🛡️💳
+# FinTech Fraud Detection REST API 
 
 ## Business Context
 In the financial sector, transaction authorization systems must evaluate complex business rules in milliseconds to prevent fraud while ensuring a frictionless user experience. This project simulates a core banking authorization engine.
